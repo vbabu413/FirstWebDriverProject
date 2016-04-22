@@ -17,7 +17,7 @@ public class RegistrationTest {
 	public void testRegister()
 
 	{
-
+  madhu
 	WebDriver driver = new FirefoxDriver();
 
 //	driver.get(“http://newtours.demoaut.com/”);
