@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11322" started-at="2016-04-22T06:17:46Z" finished-at="2016-04-22T06:17:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11322" started-at="2016-04-22T06:17:46Z" finished-at="2016-04-22T06:17:58Z">
+      <class name="com.first.test.RegistrationTest">
+        <test-method status="PASS" signature="testRegister()[pri:0, instance:com.first.test.RegistrationTest@249c38d5]" name="testRegister" duration-ms="11303" started-at="2016-04-22T11:47:46Z" finished-at="2016-04-22T11:47:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegister -->
+      </class> <!-- com.first.test.RegistrationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
