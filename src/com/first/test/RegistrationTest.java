@@ -12,12 +12,21 @@ import org.testng.annotations.Test;
 
 
 public class RegistrationTest {
-	@Test //This is TestNG annotation
+	
+	public static void main(String [] args){
+		
+		System.out.println("Hello World");
+		int a =10;
+		System.out.println(a);
+		
+	}
+   /*
+   @Test //This is TestNG annotation
 
 	public void testRegister()
 
 	{
-  madhu
+ 
 	WebDriver driver = new FirefoxDriver();
 
 //	driver.get(“http://newtours.demoaut.com/”);
@@ -30,7 +39,7 @@ public class RegistrationTest {
 	driver.findElement(By.name("lastName")).sendKeys("Surname1");
 
 	driver.findElement(By.name("phone")).sendKeys("123456789");
-
+               madhu ;
 	driver.findElement(By.name("userName")).sendKeys("user1@test.com");
 
 	driver.findElement(By.name("address1")).sendKeys("Test Address");
@@ -53,5 +62,5 @@ public class RegistrationTest {
 
 	driver.quit();
 
-	}
+	}*/
 }
